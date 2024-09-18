@@ -1,0 +1,159 @@
+[{
+  "_id": {
+    "$oid": "66e11d1a13789f5e3833bbd9"
+  },
+  "student": {
+    "_id": {
+      "$oid": "66e10c18227082484cb06805"
+    },
+    "name": "Jose",
+    "lastName": "Palacios",
+    "dni": "76453454",
+    "age": 28
+  },
+  "dateEnrollment": {
+    "$date": "2024-09-04T20:53:16.000Z"
+  },
+  "status": true,
+  "details": [
+    {
+      "course": {
+        "_id": {
+          "$oid": "66e10d26227082484cb06809"
+        },
+        "name": "Lenguaje",
+        "acronym": "LEN",
+        "status": true
+      },
+      "classroom": "A"
+    },
+    {
+      "course": {
+        "_id": {
+          "$oid": "66e10d36227082484cb0680a"
+        },
+        "name": "Razonamiento Verbal",
+        "acronym": "RV",
+        "status": true
+      },
+      "classroom": "A"
+    },
+    {
+      "course": {
+        "_id": {
+          "$oid": "66e10d4b227082484cb0680b"
+        },
+        "name": "Historia del Perú",
+        "acronym": "HP",
+        "status": true
+      },
+      "classroom": "A"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e11d5013789f5e3833bbda"
+  },
+  "student": {
+    "_id": {
+      "$oid": "66e10c3a227082484cb06806"
+    },
+    "name": "Pedro",
+    "lastName": "Palacios",
+    "dni": "34546545",
+    "age": 35
+  },
+  "dateEnrollment": {
+    "$date": "2024-09-04T20:53:16.000Z"
+  },
+  "status": true,
+  "details": [
+    {
+      "course": {
+        "_id": {
+          "$oid": "66e10d26227082484cb06809"
+        },
+        "name": "Lenguaje",
+        "acronym": "LEN",
+        "status": true
+      },
+      "classroom": "A"
+    },
+    {
+      "course": {
+        "_id": {
+          "$oid": "66e10d36227082484cb0680a"
+        },
+        "name": "Razonamiento Verbal",
+        "acronym": "RV",
+        "status": true
+      },
+      "classroom": "A"
+    },
+    {
+      "course": {
+        "_id": {
+          "$oid": "66e10d4b227082484cb0680b"
+        },
+        "name": "Historia del Perú",
+        "acronym": "HP",
+        "status": true
+      },
+      "classroom": "A"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e76a73dfd1f96709a2d5d3"
+  },
+  "student": {
+    "_id": {
+      "$oid": "66e10c4f227082484cb06807"
+    },
+    "name": "Maria",
+    "lastName": "Cuadra",
+    "dni": "56453456",
+    "age": 36
+  },
+  "dateEnrollment": {
+    "$date": "2024-09-15T20:53:16.000Z"
+  },
+  "status": true,
+  "details": [
+    {
+      "course": {
+        "_id": {
+          "$oid": "66e10d26227082484cb06809"
+        },
+        "name": "Literatura",
+        "acronym": "LIT",
+        "status": true
+      },
+      "classroom": "A"
+    },
+    {
+      "course": {
+        "_id": {
+          "$oid": "66e10d36227082484cb0680a"
+        },
+        "name": "Razonamiento Verbal",
+        "acronym": "RV",
+        "status": true
+      },
+      "classroom": "A"
+    },
+    {
+      "course": {
+        "_id": {
+          "$oid": "66e10d4b227082484cb0680b"
+        },
+        "name": "Historia del Perú",
+        "acronym": "HP",
+        "status": true
+      },
+      "classroom": "A"
+    }
+  ]
+}]

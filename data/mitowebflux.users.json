@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "66eb2166d439397a589b9eee"
+  },
+  "username": "admin",
+  "password": "$2a$10$JoIzRDlccViqUVF.lC8W1.1Ne35WLMfQfC5Us78hMLczbq2sYJDPi",
+  "status": true,
+  "roles": [
+    {
+      "_id": {
+        "$oid": "5e0181036406aa781ce6440e"
+      },
+      "name": "ADMIN"
+    },
+    {
+      "_id": {
+        "$oid": "5e0181106406aa781ce6440f"
+      },
+      "name": "USER"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eb21c5d439397a589b9eef"
+  },
+  "username": "gpalacios",
+  "password": "$2a$10$CwpGppYh6J7gW/YdCJhrZO/vnLuiaFntTJXelNL.K0iKNBuO93ZcW",
+  "status": true,
+  "roles": [
+    {
+      "_id": {
+        "$oid": "5e0181036406aa781ce6440e"
+      },
+      "name": "ADMIN"
+    },
+    {
+      "_id": {
+        "$oid": "5e0181106406aa781ce6440f"
+      },
+      "name": "USER"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eb26fbbbadab18a2151a26"
+  },
+  "username": "mitocode",
+  "password": "$2a$10$kMsjGfXMsAh5uZKl2DAdee7yUIkS6At.zGC.dUtmsetn3pCw9II7m",
+  "status": true,
+  "roles": [
+    {
+      "_id": {
+        "$oid": "5e0181036406aa781ce6440e"
+      },
+      "name": "ADMIN"
+    },
+    {
+      "_id": {
+        "$oid": "5e0181106406aa781ce6440f"
+      },
+      "name": "USER"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66eb29671d338661bd03acfa"
+  },
+  "username": "mitocode26",
+  "password": "$2a$10$CZ1ZdDiOMEcfesuT70KOOO6tyTWIZikPrJq1tYy1yxsxnruA70DYe",
+  "status": true,
+  "roles": [
+    {
+      "_id": {
+        "$oid": "5e0181036406aa781ce6440e"
+      },
+      "name": "ADMIN"
+    },
+    {
+      "_id": {
+        "$oid": "5e0181106406aa781ce6440f"
+      },
+      "name": "USER"
+    }
+  ]
+}]

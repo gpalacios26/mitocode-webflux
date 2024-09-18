@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "66e10c18227082484cb06805"
+  },
+  "name": "Fernando",
+  "lastName": "Palacios",
+  "dni": "76453454",
+  "age": 28
+},
+{
+  "_id": {
+    "$oid": "66e10c3a227082484cb06806"
+  },
+  "name": "Pedro",
+  "lastName": "Palacios",
+  "dni": "34546545",
+  "age": 35
+},
+{
+  "_id": {
+    "$oid": "66e10c4f227082484cb06807"
+  },
+  "name": "Maria",
+  "lastName": "Cuadra",
+  "dni": "56453456",
+  "age": 36
+},
+{
+  "_id": {
+    "$oid": "66e26199bb029847ec02ead9"
+  },
+  "name": "Flavio",
+  "lastName": "Palacios",
+  "dni": "65823214",
+  "age": 55
+},
+{
+  "_id": {
+    "$oid": "66e261afbb029847ec02eada"
+  },
+  "name": "Mirtha",
+  "lastName": "Cuadra",
+  "dni": "34652343",
+  "age": 45
+},
+{
+  "_id": {
+    "$oid": "66e75d94a612d219633c2ae1"
+  },
+  "name": "Fernando",
+  "lastName": "Palacios",
+  "dni": "87823214",
+  "age": 19
+},
+{
+  "_id": {
+    "$oid": "66e767641136bc294adc2ec5"
+  },
+  "name": "Felipe",
+  "lastName": "Palacios",
+  "dni": "87823214",
+  "age": 19
+},
+{
+  "_id": {
+    "$oid": "66eb229dd439397a589b9ef0"
+  },
+  "name": "Jorge",
+  "lastName": "Palacios",
+  "dni": "65823214",
+  "age": 39
+}]

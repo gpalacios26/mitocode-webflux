@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66e10d26227082484cb06809"
+  },
+  "name": "Literatura",
+  "acronym": "LIT",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "66e10d36227082484cb0680a"
+  },
+  "name": "Razonamiento Verbal",
+  "acronym": "RV",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "66e10d4b227082484cb0680b"
+  },
+  "name": "Historia del Perú",
+  "acronym": "HP",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "66e760f9b337aa291b98a0d8"
+  },
+  "name": "Finanzas",
+  "acronym": "FI",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "66e767a51136bc294adc2ec6"
+  },
+  "name": "Matemáticas",
+  "acronym": "MAT",
+  "status": true
+}]
