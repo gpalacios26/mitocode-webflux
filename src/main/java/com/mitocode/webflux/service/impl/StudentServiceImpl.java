@@ -23,11 +23,11 @@ public class StudentServiceImpl extends CRUDImpl<Student, String> implements ISt
 
     @Override
     public Flux<Student> getStudentsOrderByAgeAsc() {
-        return repository.findAll().log().sort(Comparator.comparing(Student::getAge));
+        return repository.findAll().sort(Comparator.comparing(Student::getAge));
     }
 
     @Override
     public Flux<Student> getStudentsOrderByAgeDesc() {
-        return repository.findAll().log().sort(Comparator.comparing(Student::getAge).reversed());
+        return repository.findAll().sort(Comparator.comparing(Student::getAge).reversed());
     }
 }
